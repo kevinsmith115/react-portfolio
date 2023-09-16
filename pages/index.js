@@ -33,7 +33,7 @@ export default function Home() {
 
           <div className="text-center p-10 py-10 dark:text-white">
             <h2 className="text-5xl py-2 text-teal-600 dark:text-teal-400 font-medium md:text-6xl">
-            Kevin Smith</h2>
+            Kevin Dare Smith</h2>
             <h3 className="text-2lx py-2">Developer and Designer</h3>
             <p className="text-md py-5 leading-8 text-gray-800  dark:text-gray-300">
               I am a developer and engineer with a passion for learning and building. 
